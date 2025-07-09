@@ -306,13 +306,6 @@ animation = &"Ivan_jump"
 speed_scale = 0.0
 offset = Vector2(0, -2)
 
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D/AnimatedSprite2D"]
-position = Vector2(-49, -33)
-sprite_frames = SubResource("SpriteFrames_eugdk")
-animation = &"Ivan_jump"
-speed_scale = 0.0
-offset = Vector2(0, -2)
-
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
 visible = false
 position = Vector2(0, -10.5)
