@@ -1,3 +1,3 @@
-# hellsong prototype game
+made on //GD script🤖🎮// 🧠🦷🩸Hellsong🩸🦷🧠
 
 
